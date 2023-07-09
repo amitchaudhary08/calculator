@@ -57,6 +57,7 @@ const App = () => {
   }
   return (
     <div className="container">
+    <h2>hey</h2>
       <div className="calc">
        <h1 id="input">{input}</h1>
        <div>
